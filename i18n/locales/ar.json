@@ -1,0 +1,62 @@
+{
+  "header": {
+    "searchPlaceholder": "بحث سريع...",
+    "enableNotifications": "تفعيل الإشعارات",
+    "addLecture": "إضافة محاضرة",
+    "language": "EN"
+  },
+  "footer": {
+    "credits": "تم إنشاء هذا المشروع بواسطة",
+    "creators": "عبدالله الأسعد و ARX-Tech",
+    "follow": "تابعنا على فيسبوك",
+    "contact": "تواصل مع فريق الدعم",
+    "notifications_note": "الإشعارات تعمل بدون الحاجة للاتصال بالإنترنت (إذا كان المتصفح يدعم ذلك)."
+  },
+  "schedule": {
+    "noLectures": "لا توجد محاضرات مجدولة."
+  },
+  "lectureCard": {
+    "professor": "الأستاذ:",
+    "location": "الموقع:"
+  },
+  "addLectureForm": {
+    "title": "إضافة محاضرة جديدة",
+    "error": "يرجى ملء جميع الحقول المطلوبة.",
+    "name": "اسم المحاضرة",
+    "type": "نوع المحاضرة",
+    "professor": "اسم الأستاذ (اختياري)",
+    "startTime": "وقت البدء",
+    "location": "الموقع",
+    "day": "اليوم",
+    "cancel": "إلغاء",
+    "add": "إضافة محاضرة"
+  },
+  "app": {
+    "welcome": "أهلاً بك في جامعتي!",
+    "emptySchedule": "جدولك فارغ. اضغط على \"إضافة محاضرة\" للبدء.",
+    "addFirstLecture": "أضف محاضرتك الأولى",
+    "deleteConfirm": "هل أنت متأكد من أنك تريد حذف هذه المحاضرة؟"
+  },
+  "days": {
+    "Sunday": "الأحد",
+    "Monday": "الاثنين",
+    "Tuesday": "الثلاثاء",
+    "Wednesday": "الأربعاء",
+    "Thursday": "الخميس",
+    "Friday": "الجمعة",
+    "Saturday": "السبت"
+  },
+  "lectureTypes": {
+    "Theoretical": "نظري",
+    "Practical": "عملي",
+    "Lab": "مختبر",
+    "Seminar": "حلقة بحث",
+    "Workshop": "ورشة عمل",
+    "Tutorial": "درس تعليمي",
+    "Other": "أخرى"
+  },
+  "notifications": {
+    "enabled": "تم تفعيل الإشعارات بنجاح!",
+    "denied": "تم رفض إذن الإشعارات. يرجى تفعيله من إعدادات المتصفح."
+  }
+}

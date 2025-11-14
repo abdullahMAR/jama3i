@@ -1,0 +1,62 @@
+{
+  "header": {
+    "searchPlaceholder": "Quick Search...",
+    "enableNotifications": "Enable Notifications",
+    "addLecture": "Add Lecture",
+    "language": "AR"
+  },
+  "footer": {
+    "credits": "This project was created by",
+    "creators": "ABDULLAH ALASAAD & ARX-Tech",
+    "follow": "Follow us on Facebook",
+    "contact": "Contact Support Team",
+    "notifications_note": "Notifications work offline with browser support."
+  },
+  "schedule": {
+    "noLectures": "No lectures scheduled."
+  },
+  "lectureCard": {
+    "professor": "Professor:",
+    "location": "Location:"
+  },
+  "addLectureForm": {
+    "title": "Add a New Lecture",
+    "error": "Please fill in all required fields.",
+    "name": "Lecture Name",
+    "type": "Lecture Type",
+    "professor": "Professor (optional)",
+    "startTime": "Start Time",
+    "location": "Location",
+    "day": "Day of the Week",
+    "cancel": "Cancel",
+    "add": "Add Lecture"
+  },
+  "app": {
+    "welcome": "Welcome to JAMAti!",
+    "emptySchedule": "Your schedule is empty. Click \"Add Lecture\" to get started.",
+    "addFirstLecture": "Add Your First Lecture",
+    "deleteConfirm": "Are you sure you want to delete this lecture?"
+  },
+  "days": {
+    "Sunday": "Sunday",
+    "Monday": "Monday",
+    "Tuesday": "Tuesday",
+    "Wednesday": "Wednesday",
+    "Thursday": "Thursday",
+    "Friday": "Friday",
+    "Saturday": "Saturday"
+  },
+  "lectureTypes": {
+    "Theoretical": "Theoretical",
+    "Practical": "Practical",
+    "Lab": "Lab",
+    "Seminar": "Seminar",
+    "Workshop": "Workshop",
+    "Tutorial": "Tutorial",
+    "Other": "Other"
+  },
+  "notifications": {
+    "enabled": "Notifications enabled successfully!",
+    "denied": "Notification permission was denied. Please enable it in your browser settings."
+  }
+}
